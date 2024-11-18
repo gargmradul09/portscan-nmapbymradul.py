@@ -51,14 +51,14 @@ A simple yet effective Python port scanner leveraging the `nmap` library. This s
 
 #Usage
 
-1.) clone the repository:
-git clone https://github.com/gargmradul09/portscan-nmapbymradul.py.git
+1.) clone the repository:  
+    git clone https://github.com/gargmradul09/portscan-nmapbymradul.py.git
 
 2.)  Navigate to the project directory:
-cd portscan-nmapbymradul.py
+   cd portscan-nmapbymradul.py
 
-3.) Run the script:
-python3 portscan-nmapbymradul.py
+3.) Run the script:  
+    python3 portscan-nmapbymradul.py
 
 
 #Example Output
