@@ -64,9 +64,13 @@ A simple yet effective Python port scanner leveraging the `nmap` library. This s
 #Example Output
 
 Please enter the IP address you want to scan: 192.168.1.1
+
 You entered a valid IP address.
+
 Please enter the range of ports you want to scan in format: <int>-<int> (e.g., 20-80)
+
 Port 22 is open
+
 Port 23 is closed
 ...
 Cannot scan port 90.
