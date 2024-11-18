@@ -69,9 +69,8 @@ You entered a valid IP address.
 
 Please enter the range of ports you want to scan in format: <int>-<int> (e.g., 20-80)
 
-Port 22 is open
-
-Port 23 is closed
+Port 22 is filtered
+Port 23 is filtered
 ...
 Cannot scan port 90.
 
